@@ -6,6 +6,7 @@
 
 #### 1. Check your present working directory.
 To check your present working directory run the command "pwd"
+
 ![image](https://github.com/RimshaAzmat/DevOps_Bytwise_Day02/assets/144583193/dd83e190-fe76-4716-8cd1-e7a75a4f064c)
 
 #### 2. List all the files or directories including hidden files.
